@@ -1,0 +1,6 @@
+- id: no-set-literals
+  name: no set literals (python)
+  description: checks for set literals `{1, 2, 3}` as they can easily be confused with dict literals
+  entry: no-set-literals
+  language: python
+  types: [python]

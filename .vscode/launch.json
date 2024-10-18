@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "smarthost",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "smarthost"
+            ]
+        },
+        {
+            "name": "heartbeat",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "heartbeat"
+            ]
+        },
+        {
+            "name": "survey_monkey",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "survey_monkey"
+            ]
+        },
+        {
+            "name": "survey_monkey_npi",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "survey_monkey_npi"
+            ]
+        },
+        {
+            "name": "incontact",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "incontact"
+            ]
+        },
+        {
+            "name": "email_export",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "email_export"
+            ]
+        },
+        {
+            "name": "google_ga4",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "google_analytics_ga4"
+            ]
+        },
+        {
+            "name": "raw_unit_counts",
+            "type": "python",
+            "request": "launch",
+            "module": "measure",
+            "justMyCode": true,
+            "args": [
+                "raw_unit_counts"
+            ]
+        }
+    ]
+}

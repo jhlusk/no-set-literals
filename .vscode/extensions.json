@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "charliermarsh.ruff",
+        "IronGeek.vscode-env",
+        "ms-azuretools.vscode-docker",
+        "ms-python.black-formatter",
+        "ms-python.python",
+        "ms-vsliveshare.vsliveshare",
+        "github.copilot",
+        "redhat.vscode-yaml",
+        "tamasfe.even-better-toml"
+    ]
+}
